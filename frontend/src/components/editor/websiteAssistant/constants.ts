@@ -1,13 +1,27 @@
 import React from 'react';
 import { Palette, FileText, HelpCircle, Settings, Plus } from 'lucide-react';
 import type { ModeOption } from './types';
+import type { EditableComponent } from '@/types/editorial';
 
-/**
- * Mode Options Configuration
- * 
- * Defines the available chat modes for the website assistant.
- * This is static and doesn't need to be updated by the parent project.
- */
+// Component detail imports
+import { auroraImageHeroDetails } from "@/components/designs/herobanners/auroraImageHero";
+import { imageTextBoxDetails } from "@/components/designs/contentPieces/imageTextBox";
+import { textAndListDetails } from "@/components/designs/textComponents/textAndList";
+import { imageTextPointsDetails } from "@/components/designs/contentPieces/imageTextPoints";
+import { testimonials3Details } from "@/components/designs/testimonials/testimonials3";
+import { contactCloserDetails } from "@/components/designs/misc/contactCloser";
+import { carouselHeroDetails } from "@/components/designs/herobanners/carouselHero";
+import { experienceCardDetails } from "@/components/designs/contentPieces/experienceCard";
+import { uniqueValuePropositionDetails } from "@/components/designs/textComponents/uniqueValueProposition";
+import { processStepsDetails } from "@/components/designs/textComponents/processSteps";
+import { testimonialsRealEstateDetails } from "@/components/designs/testimonials/testimonialsRealEstate";
+import { scrollCarouselDetails } from "@/components/designs/carousels/scrollCarousel";
+import { splitScreenHeroDetails } from "@/components/designs/herobanners/splitScreenHero";
+import { profileCredentialsDetails } from "@/components/designs/contentPieces/profileCredentials";
+import { propertyCarouselDetails } from "@/components/designs/carousels/propertyCarousel";
+import { marketingShowcaseDetails } from "@/components/designs/contentPieces/marketingShowcase";
+
+// Mode options configuration
 export const MODE_OPTIONS: ModeOption[] = [
   {
     id: 'colors',
@@ -48,3 +62,23 @@ export const MODE_OPTIONS: ModeOption[] = [
     color: 'from-indigo-500 to-purple-500',
   },
 ];
+
+// Map component types to their details
+export const COMPONENT_DETAILS_MAP: Record<string, EditableComponent> = {
+  auroraImageHero: auroraImageHeroDetails,
+  imageTextBox: imageTextBoxDetails,
+  textAndList: textAndListDetails,
+  imageTextPoints: imageTextPointsDetails,
+  testimonials3: testimonials3Details,
+  contactCloser: contactCloserDetails,
+  carouselHero: carouselHeroDetails,
+  experienceCard: experienceCardDetails,
+  uniqueValueProposition: uniqueValuePropositionDetails,
+  processSteps: processStepsDetails,
+  testimonialsRealEstate: testimonialsRealEstateDetails,
+  scrollCarousel: scrollCarouselDetails,
+  splitScreenHero: splitScreenHeroDetails,
+  profileCredentials: profileCredentialsDetails,
+  propertyCarousel: propertyCarouselDetails,
+  marketingShowcase: marketingShowcaseDetails,
+};
