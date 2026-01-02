@@ -31,8 +31,8 @@
           "componentCategory": "hero",
           "props": {
             "subTitle": "Expand Your Influence",
-            "title": "Harness Quantum Power for Growth",
-            "description": "quantum realm and accurate json pull from GitHub",
+            "title": "Harness Quantum Power for Growth!!",
+            "description": "Discover groundbreaking insights using high-tech visuals to navigate the digital world with confidence and clarity.",
             "buttonText": "Learn More",
             "array": [],
             "mainColor": "#b51a00",
@@ -769,6 +769,6 @@
     }
   },
   "currentVersionNumber": 1,
-  "createdAt": "2026-01-02T07:01:55.708Z",
-  "updatedAt": "2026-01-02T07:02:14.906Z"
+  "createdAt": "2026-01-02T07:15:35.791Z",
+  "updatedAt": "2026-01-02T07:15:40.387Z"
 }
