@@ -31,8 +31,8 @@
           "componentCategory": "hero",
           "props": {
             "subTitle": "Expand Your Influence",
-            "title": "new title here",
-            "description": "play the game playa",
+            "title": "test 123",
+            "description": "Discover groundbreaking insights using high-tech visuals to navigate the digital world with confidence and clarity.",
             "buttonText": "Learn More",
             "array": [],
             "mainColor": "#b51a00",
@@ -768,7 +768,6 @@
       "radialBaseStop": 50
     }
   },
-  "currentVersionNumber": 22,
-  "createdAt": "2026-01-02T20:01:34.371Z",
-  "updatedAt": "2026-01-02T20:01:49.577Z"
+  "createdAt": "2026-01-02T20:06:50.000Z",
+  "updatedAt": "2026-01-02T20:09:31.220Z"
 }
