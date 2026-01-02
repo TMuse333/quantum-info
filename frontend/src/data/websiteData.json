@@ -1,0 +1,41 @@
+{
+  "templateName": "blank",
+  "websiteName": "My Website",
+  "status": "draft",
+  "currentVersionNumber": 0,
+  "colorTheme": {
+    "primary": "#3B82F6",
+    "text": "#FFFFFF",
+    "background": "#000000",
+    "bgLayout": {
+      "type": "solid"
+    }
+  },
+  "seoMetadata": {},
+  "pages": {
+    "index": {
+      "id": "index",
+      "name": "Home",
+      "path": "/",
+      "components": []
+    }
+  },
+  "deployment": {
+    "githubOwner": "",
+    "githubRepo": "",
+    "vercelProjectId": "",
+    "vercelProductionUrl": "",
+    "lastDeploymentStatus": "pending",
+    "customDomain": null,
+    "totalDeployments": 0,
+    "successfulDeployments": 0,
+    "failedDeployments": 0,
+    "lastDeploymentId": null,
+    "lastCommitSha": null,
+    "lastBuildTime": null
+  },
+  "formData": {},
+  "ownerId": "",
+  "createdAt": "2024-01-01T00:00:00.000Z",
+  "updatedAt": "2024-01-01T00:00:00.000Z"
+}
