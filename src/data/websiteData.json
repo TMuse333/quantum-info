@@ -32,7 +32,7 @@
           "props": {
             "subTitle": "Expand Your Influence",
             "title": "Harness Quantum Power for Growth",
-            "description": "quantum realm + information theory + high quality visuals = big money",
+            "description": "quantum realm and accurate json pull from GitHub",
             "buttonText": "Learn More",
             "array": [],
             "mainColor": "#b51a00",
@@ -768,7 +768,7 @@
       "radialBaseStop": 50
     }
   },
-  "currentVersionNumber": 3,
-  "createdAt": "2026-01-02T06:58:54.018Z",
-  "updatedAt": "2026-01-02T06:59:19.925Z"
+  "currentVersionNumber": 1,
+  "createdAt": "2026-01-02T07:01:55.708Z",
+  "updatedAt": "2026-01-02T07:02:14.906Z"
 }
