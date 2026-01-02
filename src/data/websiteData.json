@@ -30,9 +30,9 @@
           "context": "A hero banner at the top to introduce branding",
           "componentCategory": "hero",
           "props": {
-            "subTitle": "Expand Your Influence via quantum realm",
+            "subTitle": "Expand Your Influence",
             "title": "Harness Quantum Power for Growth",
-            "description": "Discover groundbreaking insights using high-tech visuals to navigate the digital world with confidence and clarity.",
+            "description": "quantum realm + information theory + high quality visuals = big money",
             "buttonText": "Learn More",
             "array": [],
             "mainColor": "#b51a00",
@@ -769,6 +769,6 @@
     }
   },
   "currentVersionNumber": 3,
-  "createdAt": "2026-01-02T06:51:15.825Z",
-  "updatedAt": "2026-01-02T06:51:22.585Z"
+  "createdAt": "2026-01-02T06:58:54.018Z",
+  "updatedAt": "2026-01-02T06:59:19.925Z"
 }
