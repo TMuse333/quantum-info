@@ -31,8 +31,8 @@
           "componentCategory": "hero",
           "props": {
             "subTitle": "Expand Your Influence",
-            "title": "use science to play like a true playa",
-            "description": "quantum realm + information theory + creative skills + generative art api = valuable products",
+            "title": "new title here",
+            "description": "play the game playa",
             "buttonText": "Learn More",
             "array": [],
             "mainColor": "#b51a00",
@@ -768,7 +768,7 @@
       "radialBaseStop": 50
     }
   },
-  "currentVersionNumber": 21,
-  "createdAt": "2026-01-02T08:16:11.325Z",
-  "updatedAt": "2026-01-02T08:16:51.191Z"
+  "currentVersionNumber": 22,
+  "createdAt": "2026-01-02T20:01:34.371Z",
+  "updatedAt": "2026-01-02T20:01:49.577Z"
 }
