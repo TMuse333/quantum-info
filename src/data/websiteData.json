@@ -20,8 +20,8 @@
       "answer": "this is a ground breaking business where information is used in comibination with the power of the quantum realm and high tech visuals to explaining things and expand your influence to new horizons in a very digitally saturated world"
     }
   },
-  "pages": {
-    "index": {
+  "pages": [
+    {
       "components": [
         {
           "id": "auroraImageHero-0",
@@ -30,8 +30,8 @@
           "context": "A hero banner at the top to introduce branding",
           "componentCategory": "hero",
           "props": {
-            "subTitle": "Expand Your Influence",
-            "title": "Harness the Quantum Power for Growth",
+            "subTitle": "Expand Your Influence with the quantum realm",
+            "title": "Harness Quantum Power for Growth",
             "description": "Discover groundbreaking insights using high-tech visuals to navigate the digital world with confidence and clarity.",
             "buttonText": "Learn More",
             "array": [],
@@ -221,7 +221,7 @@
       "pageName": "Home",
       "slug": "index"
     },
-    "about": {
+    {
       "components": [
         {
           "id": "carouselHero-0",
@@ -482,7 +482,7 @@
       "pageName": "About",
       "slug": "about"
     },
-    "services": {
+    {
       "components": [
         {
           "id": "splitScreenHero-0",
@@ -751,7 +751,7 @@
       "pageName": "Services",
       "slug": "services"
     }
-  },
+  ],
   "status": "draft",
   "ownerId": "69038ae0a3e8d5386f523806",
   "websiteName": "Unnamed Website",
@@ -768,7 +768,7 @@
       "radialBaseStop": 50
     }
   },
-  "currentVersionNumber": 2,
-  "createdAt": "2026-01-02T06:09:51.124Z",
-  "updatedAt": "2026-01-02T06:09:55.909Z"
+  "currentVersionNumber": 3,
+  "createdAt": "2026-01-02T06:50:02.081Z",
+  "updatedAt": "2026-01-02T06:50:11.599Z"
 }
