@@ -1,0 +1,310 @@
+{
+  "version": 41,
+  "timestamp": "2025-12-25T02:21:59.703Z",
+  "commitSha": "feea32aacaa49e00cbaf031368fbd3773940ab63",
+  "websiteData": {
+    "templateName": "Default Template",
+    "formData": {},
+    "status": "in-progress",
+    "colorTheme": {
+      "primary": "#006d8f",
+      "text": "#ffffff",
+      "background": "#000000",
+      "bgLayout": {
+        "type": "radial",
+        "radialSize": "125% 125%",
+        "radialPosition": "50% 0%",
+        "radialBaseStop": 50
+      },
+      "updatedAt": "2025-12-17T08:10:08.395Z",
+      "source": "manual"
+    },
+    "seoMetadata": {},
+    "pages": {
+      "index": {
+        "id": "index",
+        "name": "Home",
+        "path": "/",
+        "components": [
+          {
+            "id": "hero-1",
+            "type": "auroraImageHero",
+            "order": 0,
+            "props": {
+              "title": "the ai web developer",
+              "description": "refresh",
+              "mainColor": "#006d8f",
+              "textColor": "#ffffff",
+              "baseBgColor": "#000000",
+              "bgLayout": {
+                "type": "radial",
+                "radialSize": "125% 125%",
+                "radialPosition": "50% 0%",
+                "radialBaseStop": 50
+              },
+              "images": {
+                "main": {
+                  "src": "https://maf7vdyjaxjtyxfd.public.blob.vercel-storage.com/users/thomaslmusial%40gmail.com/focusFlow-brain-nobg-NFaUur9QoSpvDvYj5MSC5JXEtc9yjn.webp",
+                  "alt": "Hero Image"
+                }
+              },
+              "subTitle": "focusflow software presents",
+              "buttonText": "get yours today"
+            }
+          },
+          {
+            "id": "text-and-list-1",
+            "type": "textAndList",
+            "order": 1,
+            "props": {
+              "title": "this is excellent!",
+              "description": "this is a solid piece of software",
+              "textArray": [
+                {
+                  "title": "real one",
+                  "description": "lots of leg days"
+                },
+                {
+                  "title": "Feature Two",
+                  "description": "big arms"
+                }
+              ],
+              "mainColor": "#006d8f",
+              "textColor": "#ffffff",
+              "baseBgColor": "#000000",
+              "bgLayout": {
+                "type": "radial",
+                "radialSize": "125% 125%",
+                "radialPosition": "50% 0%",
+                "radialBaseStop": 50
+              },
+              "images": {
+                "main": {
+                  "src": "https://maf7vdyjaxjtyxfd.public.blob.vercel-storage.com/users/thomaslmusial%40gmail.com/aboubacar-5-fire-KpuQm2cDnmKDm6dWOTdkiJt6BwKXR1.webp",
+                  "alt": "placeholder"
+                }
+              },
+              "images.main": {
+                "src": "https://maf7vdyjaxjtyxfd.public.blob.vercel-storage.com/users/thomaslmusial%40gmail.com/aboubacar-5-fire-KpuQm2cDnmKDm6dWOTdkiJt6BwKXR1.webp",
+                "alt": "placeholder"
+              },
+              "subTitle": "ai web developer",
+              "buttonText": ""
+            }
+          },
+          {
+            "id": "experience-card-1",
+            "type": "experienceCard",
+            "order": 2,
+            "props": {
+              "title": "work faster and smarter",
+              "description": "wakey wakey",
+              "subTitle": "Trusted by Many",
+              "buttonText": "Learn More",
+              "mainColor": "#006d8f",
+              "textColor": "#ffffff",
+              "baseBgColor": "#000000",
+              "bgLayout": {
+                "type": "radial",
+                "radialSize": "125% 125%",
+                "radialPosition": "50% 0%",
+                "radialBaseStop": 50
+              },
+              "array": [
+                {
+                  "type": "StandardText",
+                  "title": "playas play playa"
+                },
+                {
+                  "type": "StandardText",
+                  "title": "ah"
+                },
+                {
+                  "type": "StandardText",
+                  "title": "be pure (at least try)"
+                }
+              ],
+              "images": {
+                "main": {
+                  "src": "https://maf7vdyjaxjtyxfd.public.blob.vercel-storage.com/users/thomaslmusial%40gmail.com/Gemini_Generated_Image_vxy9isvxy9isvxy9-fhxdwcGggnwpcG3wtEOmpzr7WDpEjA.png",
+                  "alt": "Intro Placeholder Image"
+                }
+              },
+              "images.main": {
+                "src": "https://maf7vdyjaxjtyxfd.public.blob.vercel-storage.com/users/thomaslmusial%40gmail.com/Gemini_Generated_Image_vxy9isvxy9isvxy9-fhxdwcGggnwpcG3wtEOmpzr7WDpEjA.png",
+                "alt": "Intro Placeholder Image"
+              }
+            }
+          },
+          {
+            "id": "image-text-box-1",
+            "type": "imageTextBox",
+            "order": 3,
+            "props": {
+              "title": "be about it",
+              "description": "This component combines images with text content.",
+              "mainColor": "#006d8f",
+              "textColor": "#ffffff",
+              "baseBgColor": "#000000",
+              "bgLayout": {
+                "type": "radial",
+                "radialSize": "125% 125%",
+                "radialPosition": "50% 0%",
+                "radialBaseStop": 50
+              },
+              "images": {
+                "main": {
+                  "src": "https://maf7vdyjaxjtyxfd.public.blob.vercel-storage.com/users/thomaslmusial%40gmail.com/focusFlow-brain-nobg-NFaUur9QoSpvDvYj5MSC5JXEtc9yjn.webp",
+                  "alt": "Featured Image"
+                }
+              },
+              "images.main": {
+                "src": "https://maf7vdyjaxjtyxfd.public.blob.vercel-storage.com/users/thomaslmusial%40gmail.com/focusFlow-brain-nobg-NFaUur9QoSpvDvYj5MSC5JXEtc9yjn.webp",
+                "alt": "Featured Image"
+              },
+              "subTitle": "",
+              "buttonText": ""
+            }
+          },
+          {
+            "id": "testimonials-1",
+            "type": "testimonials3",
+            "order": 5,
+            "props": {
+              "title": "Client Testimonials",
+              "description": "What our clients say about us.",
+              "testimonials": [
+                {
+                  "name": "John Doe",
+                  "role": "Client",
+                  "quote": "Great service and attention to detail!"
+                }
+              ],
+              "mainColor": "#006d8f",
+              "textColor": "#ffffff",
+              "baseBgColor": "#000000",
+              "bgLayout": {
+                "type": "radial",
+                "radialSize": "125% 125%",
+                "radialPosition": "50% 0%",
+                "radialBaseStop": 50
+              },
+              "subTitle": "",
+              "buttonText": ""
+            }
+          }
+        ],
+        "slug": "index"
+      },
+      "about": {
+        "id": "about",
+        "name": "About",
+        "path": "/about",
+        "components": [
+          {
+            "id": "profile-credentials-1",
+            "type": "profileCredentials",
+            "order": 0,
+            "props": {
+              "title": "About Us",
+              "description": "Learn more about our team and mission.",
+              "mainColor": "#006d8f",
+              "textColor": "#ffffff",
+              "baseBgColor": "#000000",
+              "bgLayout": {
+                "type": "radial",
+                "radialSize": "125% 125%",
+                "radialPosition": "50% 0%",
+                "radialBaseStop": 50
+              },
+              "images": {
+                "profile": {
+                  "src": "https://maf7vdyjaxjtyxfd.public.blob.vercel-storage.com/users/thomaslmusial%40gmail.com/goku%20vs%20jiren-B1XDpqbGvQ8ki0fnVYPxGbRbazvmrb.jpg",
+                  "alt": "Professional profile photo"
+                }
+              },
+              "images.profile": {
+                "src": "https://maf7vdyjaxjtyxfd.public.blob.vercel-storage.com/users/thomaslmusial%40gmail.com/goku%20vs%20jiren-B1XDpqbGvQ8ki0fnVYPxGbRbazvmrb.jpg",
+                "alt": "Professional profile photo"
+              },
+              "subTitle": "",
+              "buttonText": ""
+            }
+          },
+          {
+            "id": "process-steps-1",
+            "type": "processSteps",
+            "order": 1,
+            "props": {
+              "title": "Our Process",
+              "description": "How we work with our clients.",
+              "mainColor": "#006d8f",
+              "textColor": "#ffffff",
+              "baseBgColor": "#000000",
+              "bgLayout": {
+                "type": "radial",
+                "radialSize": "125% 125%",
+                "radialPosition": "50% 0%",
+                "radialBaseStop": 50
+              },
+              "subTitle": "",
+              "buttonText": ""
+            }
+          }
+        ],
+        "slug": "about"
+      },
+      "services": {
+        "id": "services",
+        "name": "Services",
+        "path": "/services",
+        "components": [
+          {
+            "id": "value-proposition-1",
+            "type": "valueProposition",
+            "order": 0,
+            "props": {
+              "title": "Our Services",
+              "description": "Comprehensive solutions for your needs.",
+              "mainColor": "#006d8f",
+              "textColor": "#ffffff",
+              "baseBgColor": "#000000",
+              "bgLayout": {
+                "type": "radial",
+                "radialSize": "125% 125%",
+                "radialPosition": "50% 0%",
+                "radialBaseStop": 50
+              },
+              "subTitle": "",
+              "buttonText": ""
+            }
+          },
+          {
+            "id": "marketing-showcase-1",
+            "type": "marketingShowcase",
+            "order": 1,
+            "props": {
+              "title": "Marketing Showcase",
+              "description": "Showcasing our marketing capabilities.",
+              "mainColor": "#006d8f",
+              "textColor": "#ffffff",
+              "baseBgColor": "#000000",
+              "bgLayout": {
+                "type": "radial",
+                "radialSize": "125% 125%",
+                "radialPosition": "50% 0%",
+                "radialBaseStop": 50
+              },
+              "subTitle": "",
+              "buttonText": ""
+            }
+          }
+        ],
+        "slug": "services"
+      }
+    },
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2025-12-23T16:35:02.950Z",
+    "currentVersionNumber": 8
+  }
+}
