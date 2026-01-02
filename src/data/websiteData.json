@@ -31,8 +31,8 @@
           "componentCategory": "hero",
           "props": {
             "subTitle": "Expand Your Influence",
-            "title": "13 rager",
-            "description": "Discover groundbreaking insights using high-tech visuals to navigate the digital world with confidence and clarity.",
+            "title": "Harness Quantum Power for Growth",
+            "description": "14 is the number??",
             "buttonText": "Learn More",
             "array": [],
             "mainColor": "#b51a00",
@@ -769,6 +769,6 @@
     }
   },
   "currentVersionNumber": 1,
-  "createdAt": "2026-01-02T07:40:41.626Z",
-  "updatedAt": "2026-01-02T07:40:46.807Z"
+  "createdAt": "2026-01-02T07:43:47.536Z",
+  "updatedAt": "2026-01-02T07:44:01.601Z"
 }
