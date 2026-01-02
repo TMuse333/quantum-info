@@ -43,6 +43,12 @@
               "radialSize": "125% 125%",
               "radialPosition": "50% 0%",
               "radialBaseStop": 50
+            },
+            "images": {
+              "main": {
+                "src": "https://maf7vdyjaxjtyxfd.public.blob.vercel-storage.com/users/focusflowsoftware%40gmail.com/aboubacar-5-fire-Kupqa50edDj9wIMC1stXY2ALflPIOI.webp",
+                "alt": "Hero Image"
+              }
             }
           }
         },
@@ -768,7 +774,7 @@
       "radialBaseStop": 50
     }
   },
-  "currentVersionNumber": 14,
+  "currentVersionNumber": 27,
   "createdAt": "2026-01-02T20:32:52.110Z",
-  "updatedAt": "2026-01-02T20:33:00.317Z"
+  "updatedAt": "2026-01-02T22:26:17.477Z"
 }
