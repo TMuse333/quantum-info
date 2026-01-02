@@ -31,7 +31,7 @@
           "componentCategory": "hero",
           "props": {
             "subTitle": "Expand Your Influence",
-            "title": "test 123",
+            "title": "new test",
             "description": "Discover groundbreaking insights using high-tech visuals to navigate the digital world with confidence and clarity.",
             "buttonText": "Learn More",
             "array": [],
@@ -768,6 +768,6 @@
       "radialBaseStop": 50
     }
   },
-  "createdAt": "2026-01-02T20:06:50.000Z",
-  "updatedAt": "2026-01-02T20:09:31.220Z"
+  "createdAt": "2026-01-02T20:17:03.920Z",
+  "updatedAt": "2026-01-02T20:17:15.772Z"
 }
