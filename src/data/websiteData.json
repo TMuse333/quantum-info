@@ -31,8 +31,8 @@
           "componentCategory": "hero",
           "props": {
             "subTitle": "Expand Your Influence",
-            "title": "the new wave of quantum realm + information theory",
-            "description": "Discover groundbreaking insights using high-tech visuals to navigate the digital world with confidence and clarity.",
+            "title": "real one",
+            "description": "quantum realm and information theory and generative art api is pretty fire",
             "buttonText": "Learn More",
             "array": [],
             "mainColor": "#b51a00",
@@ -769,6 +769,6 @@
     }
   },
   "currentVersionNumber": 1,
-  "createdAt": "2026-01-02T07:28:44.583Z",
-  "updatedAt": "2026-01-02T07:29:03.169Z"
+  "createdAt": "2026-01-02T07:29:59.083Z",
+  "updatedAt": "2026-01-02T07:31:21.895Z"
 }
