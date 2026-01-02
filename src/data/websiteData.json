@@ -31,7 +31,7 @@
           "componentCategory": "hero",
           "props": {
             "subTitle": "Expand Your Influence",
-            "title": "Harness Quantum Power for Growth!!",
+            "title": "Harness Quantum Power for Growth!",
             "description": "Discover groundbreaking insights using high-tech visuals to navigate the digital world with confidence and clarity.",
             "buttonText": "Learn More",
             "array": [],
@@ -769,6 +769,6 @@
     }
   },
   "currentVersionNumber": 1,
-  "createdAt": "2026-01-02T07:15:35.791Z",
-  "updatedAt": "2026-01-02T07:15:40.387Z"
+  "createdAt": "2026-01-02T07:20:09.731Z",
+  "updatedAt": "2026-01-02T07:20:12.909Z"
 }
