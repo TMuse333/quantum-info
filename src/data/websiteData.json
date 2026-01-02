@@ -32,7 +32,7 @@
           "props": {
             "subTitle": "Expand Your Influence",
             "title": "Harness Quantum Power for Growth",
-            "description": "14 is the number??",
+            "description": "saving and pulling json",
             "buttonText": "Learn More",
             "array": [],
             "mainColor": "#b51a00",
@@ -769,6 +769,6 @@
     }
   },
   "currentVersionNumber": 1,
-  "createdAt": "2026-01-02T07:43:47.536Z",
-  "updatedAt": "2026-01-02T07:44:01.601Z"
+  "createdAt": "2026-01-02T07:46:11.029Z",
+  "updatedAt": "2026-01-02T07:46:18.008Z"
 }
